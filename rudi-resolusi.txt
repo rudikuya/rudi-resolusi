@@ -2,8 +2,11 @@ Rudiansyah Resolusi
 - Rumah
   - Perbaikan talang air kamar anak.
   - Perbaikan talang air ruang tamu.
+  - Perbaikan taman dinding depan rumah.
+  - Penerapan IoT di rumah
 - Kantor
   - Membuat dokumentasi infrastruktur jaringan
   - Membuat pengelolaan tiket support system
+  - Membuat list task pekerjaan
 - Pribadi
   - Jadwal tilawah
